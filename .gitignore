@@ -1,0 +1,12 @@
+terraform.tfstate*
+*.tfstate
+*.tfstate.backup
+*.iml
+*.plan
+infrastructure
+*.pub
+tfplan
+file:*
+.vscode/
+.terraform/
+plan
